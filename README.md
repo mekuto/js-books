@@ -24,6 +24,6 @@ __Замечания__
 __Примерный вид приложения__
 
 ![image](https://github.com/mkrivel/js-react/blob/main/js-react.png)
-![image]()
+![image](https://github.com/mkrivel/js-react/blob/main/js-react1.png)
 
 ---
